@@ -17,5 +17,4 @@ Several models for text and image classification have been tested and compared t
 The work has been organized in different notebooks according to the following tasks:
 1.	Text Classification by Machine Learning
 2.	Text Classification by Deep Learning
-3.	Image Classification by Deep Learning
-4.	Hybrid Text and Image Classification
+3.	Hybrid Text and Image Classification
